@@ -3,7 +3,7 @@ Hello learner, welcome to *Nkunyim.Net's* **Introduction To Web Development** tr
 
 
 # Course Outline
-## [Topic 01](./T01IntroductionToWebDev): Introduction to Web Development
+## [Topic 01](./T01IntroductionToWebDev): Introduction to HTML, CSS and JavaScript
 This is an introductory course in web development that:
 + seeks to give learners a comprehensive practical training in software programming 
 + and ushers them into a world of endless opportunities in the software industry.
@@ -14,13 +14,13 @@ We will then take a light sip of the HTML, CSS and JS languages with respective 
 
 We will conclude the topic by building a simple website (a personal blog).
 
-## [Topic 02](./T02StylingWebsites): Styling The Web With CSS
+## [Topic 02](./T02StylingWebsites): HTML and CSS
 
 
-## [Topic 03](./T03AutomatingWebsites): Automating Web Behaviours With JS
+## [Topic 03](./T03AutomatingWebsites): HTML and JavaScript
 
 
-## [Topic 04](./T04BuildingWebBlog): Building My Personal Blog
+## [Topic 04](./T04BuildingWebBlog): Project - Personal Blog
 
 
-## [Topic 05](./T05WebDevAssignment): Web Development Assignment
+## [Topic 05](./T05WebDevAssignment): Assignment - Web Development
