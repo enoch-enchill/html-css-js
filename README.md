@@ -3,5 +3,5 @@ Hello learner, welcome to *Nkunyim.Net's* **Introduction To Web Development** tr
 
 
 # Course Outline
-## [Topic 01](./T01IntroductionToHTML): Introduction to HTML
-## Topic 02: 
+## [Topic 01](./T01IntroductionToWebDev): Introduction to Web Development
+## [Topic 02](./T02StylingWebsites): Styling My Website
