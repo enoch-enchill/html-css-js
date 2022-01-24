@@ -29,8 +29,14 @@ Commonly used ones include Python, Java, C# (See Sharp), JavaScript, PHP, Kotlin
 
 > What is an IDE?
 
-The codes that make up a software are created using another special code editing software referred to as IDE (integrated development environment). IDE helps devs to type, edit, save, debug, run and test their work.
+The codes that make up a software are created using another special code editing software referred to as IDE (integrated development environment). IDE helps developers to type, edit, save, debug, run and test their work.
 Commonly used IDEs include Visual Studio, Visual Studio Code, Android Studio, Eclipse, Atom, NetBeans, Notepad++, IntelliJ IDE, Sublime, PHPStorm, PyCharm, IDLE, etc.
+
+> Installing Visual Studio Code IDE
+
+1. Open browser and visit: **code.visualstudio.com**
+2. Download and Install
+3. Create a folder on your computer and name it `webdev`.
 
 
 ## Lesson 02: HTML, CSS and JavaScript
@@ -60,11 +66,25 @@ Its adds automation, logic controls and data processing functionalities to our w
 
 >  Creating an HTML document
 
-1. Create a working folder on your computer
-2. Open the folder in the IDE – Visual Studio Code
-3. Create a Hello World HTML page.
-4. Save it as index.hmtl
-5. Open it with the web browser.
+1. Open the `webdev` folder you created in the previous lesson.
+2. Create a folder in that and name it `lesson01`
+3. Open the folder in the IDE – Visual Studio Code
+4. Create a file and name it `index.hmtl`
+5. Type the following in the file:
+```
+<!doctype html>
+<html lang="en">
+    <head>
+        <title>Personal Blog</title>
+    </head>
+    <body>
+        <h1>Hello World!</h1>
+        <p>My name is Joejo Enchill</p>
+    </body>
+</html>
+```
+6. Save the file.
+7. Open it with the web browser.
 
 
 ## Lesson 03: HTML Tags and Elements
